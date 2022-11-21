@@ -1,5 +1,2 @@
 # SnippetManager
- A simple snippet manager build in LiveCode for use within the LiveCode IDE (ideally as a plugin)
- Created as an example following discussions on the LiveCode forums
-
- Please ensure the sqlite file "snippets" is in the same folder as the LC Stack
+ Simple example of a local snippet manager in LiveCode - intended for use as a plugin

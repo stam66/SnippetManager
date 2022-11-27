@@ -10,6 +10,8 @@ MIT license
 - Syntax colourisation code debugged
 - If SQLite database file is missing (for example if only the stack is copied to plugins), a SQLite file is created, the snippets table inserted and any data already in the datagrid populates the new SQLite file.
 
+![snippetManager](https://user-images.githubusercontent.com/5677273/204120879-78c5dc26-0b3e-4aaf-b5dc-588050f63e90.jpg)
+
 #### TODO
 - mobile layout
 - Integration with gist

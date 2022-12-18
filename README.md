@@ -2,6 +2,11 @@
 Snippet manager in LiveCode. Drop into plugins folder to use as plugin.<br>
 MIT license
 
+### Changes in version 1.3
+- Added textencoding to store unicode (eg icons) for fields Name, Snippet, Notes and Author in the sqlite database. 
+- Copy snippet by double-clicking entry in snippet list
+- Minor tweaks to adaptive resizing of objects
+
 ### Changes in version 1.2
 - Tags are recognised in the entire text of the Notes field instead of only line 1, althogh that remains coloured and prefixed with 'Tagline:'. Any single word in the Notes field that tarts with a '#' will be recognised as a tag and a pill graphic created.
 - Optimised code for repositioning tag graphics on stack resize.
